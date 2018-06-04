@@ -6,9 +6,9 @@
 [work](https://invis.io/YCJ2PVCX84V)  
 ### Intermediate
 * React Native Todo with **Redux, Redux Thunk, Redux Form, React Navigation, Detox**  
-[work](https://github.com/eugene-zheng0208/React-Native-Todo/blob/master/gif/gif.md) [code](https://github.com/eugene-zheng0208/React-Native-Todo)
+[work](https://github.com/eugene-zheng0208/To-do/blob/master/gif/gif.md) [code](https://github.com/eugene-zheng0208/To-do)
 * Tinder Like Flashcards with **Redux, React Navigation**  
-[work](https://github.com/eugene-zheng0208/Mobile-Flashcards/blob/master/gifs/gifs.md) [code](https://github.com/eugene-zheng0208/Flashcards)
+[work](https://github.com/eugene-zheng0208/Flashcards/blob/master/gifs/gifs.md) [code](https://github.com/eugene-zheng0208/Flashcards)
 * Triathlon Tracker Calendar with **Redux, React Navigation***  
 [work](https://www.youtube.com/watch?time_continue=1&v=HZSi_XB3drA) [code](https://github.com/eugene-zheng0208/Triathlon-Tracker-Calendar)
 ### Beginner
@@ -17,7 +17,7 @@
 * CodePush Demo **CodePush**  
 [code](https://github.com/eugene-zheng0208/CodePush-Demo)
 * Jest Demo **Jest**  
-[code](https://github.com/eugene-zheng0208/Jest)
+[code](https://github.com/eugene-zheng0208/Jest-Demo)
 # React
 ### Advanced
 * Merchants' Web Admin **Redux, Redux Thunk, Redux Form, TypeScript, React Router, SCSS**  
