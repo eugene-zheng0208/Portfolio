@@ -26,7 +26,7 @@
 [work](https://projects.invisionapp.com/boards/R63N0GZYXB3/)
 ### Intermediate
 * Reddit Like Movie Review Site with **Redux, React Router**  
-[work(first run `server.js`)](https://github.com/eugene-zheng0208/Readable/blob/master/gifs/gifs.md) [code](https://github.com/eugene-zheng0208/Movie-Review)
+[work(first run `server.js`)](https://github.com/eugene-zheng0208/Movie-Review/blob/master/gifs/gifs.md) [code](https://github.com/eugene-zheng0208/Movie-Review)
 * Twitter Like Social Site with **Redux, Redux Thunk, Immutable, React Router, Webpack***  
 [work](https://duckr-site.firebaseapp.com/) [code](https://github.com/eugene-zheng0208/Twitter-Mock)
 * Meals Calendar with **Redux, React Router***  
