@@ -8,7 +8,6 @@
 [work](
 https://xd.adobe.com/view/592019c6-325f-4661-8616-a99c4e9c290c/screen/5c6b3ed0-9ecf-499e-92f0-de1d8f245925/iPhone-6-7-8-3)
 * G-plans and other projects 
-[portfolio](https://docs.google.com/document/d/1_URSBTytLTIRSU18TnjXb-jwldWGgiGk9QX2vna3xWE/edit)
 [dropbox](https://www.dropbox.com/sh/l82tobten0sn2g3/AAAQwCtlkEpQueJaDom_CMMAa?dl=0)
 ### Intermediate
 * React Native Todo with **Redux, Redux Thunk, Redux Form, React Navigation, Detox**  
